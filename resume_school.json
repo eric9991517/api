@@ -1,0 +1,34 @@
+[
+  {
+    "name": "緯創軟體 Wistron ITS",
+    "operation": "Software Engineer",
+    "timestamp": "Jan. 2021 ~ Present",
+    "content": "協助國泰人壽進行後台維護及開發新功能",
+    "url": "https://www.wistronits.com/tw/",
+    "photo_path": "wist.svg"
+  },
+  {
+    "name": "成霖實業 GLOBE UNION",
+    "operation": "Software Engineer",
+    "timestamp": "May 2018 ~ May 2022",
+    "content": "現有BPM系統維護及開發新程式<br />客製化表單及簽核流程<br />客製化報表<br />使用Java、Springboot、Vue2、FineReport",
+    "url": "https://tw.globeunion.com/",
+    "photo_path": "gu.png"
+  },
+  {
+    "name": "八旺實業 BarWand Corp.",
+    "operation": "Technical Support Engineer",
+    "timestamp": "Jun 2015 ~ Mar 2018",
+    "content": "精通各廠牌標籤積及Barcode Reader維修保養<br />客製標籤機程式(VB6 & VB.NET & C#)<br />客製化攜帶型PDA進出庫掃碼程式(WinCE & C)",
+    "url": "https://www.barwand.com.tw/",
+    "photo_path": "bw.png"
+  },
+  {
+    "name": "寶成集團 POU CHEN GROUP",
+    "operation": "Software Engineer",
+    "timestamp": "Jan 2015 ~ May 2015",
+    "content": "將現有自動化產生3D鞋模程式從VB6改寫成VB.NET<br />將PowerSHAPE做二次開發公司內部專用tools",
+    "url": "https://www.pouchen.com/index.php/tw/",
+    "photo_path": "Pou.png"
+  }
+]
