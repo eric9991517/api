@@ -21,7 +21,7 @@
     "timestamp": "Jun 2015 ~ Mar 2018",
     "content": "精通各廠牌標籤積及Barcode Reader維修保養<br />客製標籤機程式(VB6 & VB.NET & C#)<br />客製化攜帶型PDA進出庫掃碼程式(WinCE & C)",
     "url": "https://www.barwand.com.tw/",
-    "photo_path": "https://github.com/eric9991517/api/blob/main/assets/bw.png?raw=true"
+    "photo_path": "/assets/bw.png"
   },
   {
     "name": "寶成集團 POU CHEN GROUP",
@@ -29,6 +29,6 @@
     "timestamp": "Jan 2015 ~ May 2015",
     "content": "將現有自動化產生3D鞋模程式從VB6改寫成VB.NET<br />將PowerSHAPE做二次開發公司內部專用tools",
     "url": "https://www.pouchen.com/index.php/tw/",
-    "photo_path": "https://github.com/eric9991517/api/blob/main/assets/Pou.png?raw=true"
+    "photo_path": "/assets/Pou.png"
   }
 ]
