@@ -5,7 +5,7 @@
     "timestamp": "Jan. 2021 ~ Present",
     "content": "協助國泰人壽進行後台維護及開發新功能",
     "url": "https://www.wistronits.com/tw/",
-    "photo_path": "https://raw.githubusercontent.com/eric9991517/api/5e7888feea54241ec4fc8e82997af1b90fc20147/assets/wist.svg"
+    "photo_path": "/assets/new_wist.svg"
   },
   {
     "name": "成霖實業 GLOBE UNION",
@@ -13,7 +13,7 @@
     "timestamp": "May 2018 ~ May 2022",
     "content": "現有BPM系統維護及開發新程式<br />客製化表單及簽核流程<br />客製化報表<br />使用Java、Springboot、Vue2、FineReport",
     "url": "https://tw.globeunion.com/",
-    "photo_path": "https://github.com/eric9991517/api/blob/main/assets/gu.png?raw=true"
+    "photo_path": "/assets/gu.png"
   },
   {
     "name": "八旺實業 BarWand Corp.",
