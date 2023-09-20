@@ -5,7 +5,7 @@
     "timestamp": "Sept. 2009 - June 2014",
     "location": "Taichung, Taiwan",
     "url": "https://www.wistronits.com/tw/",
-    "photo_path": "https://github.com/eric9991517/api/blob/main/assets/asia_logo.png?raw=true"
+    "photo_path": "/image/asia_logo.png"
   },
   {
     "name": "僑泰高級中學 CTS",
@@ -13,6 +13,6 @@
     "timestamp": "June 2007 - Sept. 2009",
     "location": "Taichung, Taiwan",
     "url": "https://www.ctas.tc.edu.tw/home",
-    "photo_path": "https://github.com/eric9991517/api/blob/main/assets/cts.png?raw=true"
+    "photo_path": "/image/cts.png"
   }
 ]
