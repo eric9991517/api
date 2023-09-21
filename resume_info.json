@@ -1,10 +1,11 @@
 [
   {
-    "name": "亞洲大學 Asia University",
-    "department": "Computer Science and Information Engineering",
-    "timestamp": "Sept. 2009 - June 2014",
-    "location": "Taichung, Taiwan",
-    "url": "https://www.wistronits.com/tw/",
+    "name": "陳羿翊",
+    "en_name": "Yiyi Chen",
+    "operation": "後端工程師 Backend Engineer",
+    "email": "eric9991517@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/yiyi-chen-261aa1248/",
+    "github": "https://github.com/eric9991517",
     "photo_path": "./image/profile.jpg"
   }
 ]
