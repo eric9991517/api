@@ -7,4 +7,3 @@
   { "title": "Database", "value": ["Oracle", "MySQL", "DB2"] },
   { "title": "Framework", "value": ["Struts2", "SpringBoot", "Hibernate"] }
 ]
-.
